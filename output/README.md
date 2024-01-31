@@ -67,4 +67,9 @@ print(res)
 - Time-related words suggest a focus on time management.
 - "College" and terms like "project" 
 - and "goal" indicate the importance of setting and achieving goals (further exploration needed).
+# Other Brainstorming and optimizations in the future
 
+- Topic modeling, if we do not use the "cleaned_hm" that has been classified in the data set, can we try to use LDA, PLSA or other topic modeling models to build it.
+- Emotional scoring model outlier analysis, the degree of adaptation of more scoring models to our data points, such as discrete and continuous types. Whether the data is not clean or the model is not suitable remains to be verified.
+- Part 3: Data Mining + Semantic Expansion: How to improve the happiness of married and single people, with specific scenarios
+- Analysis of hierarchical clustering diagrams, associated with sensitivity analysis, recommendation systems
