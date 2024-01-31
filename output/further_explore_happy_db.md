@@ -1,4 +1,4 @@
-## urther data mining Happiness
+## Further data mining Happiness
 - To delve deeper, semantic models are needed, which may require time to select the appropriate one.
 - A simpler and intuitive approach is to analyze word frequency.
 ## Married
